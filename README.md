@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú me miras y se frena la ciudad
+> Siento la tensión, esta loca gravedad
+> Quiero que te pierdas en mi oscuridad
+> Bailando en la disco con total libertad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
